@@ -97,9 +97,7 @@ export default function Home() {
           Total Points: {totalPoints}
         </div>
       </main>
-      <footer>Footer Area
-        <img src="images/fire.png"></img>
-      </footer>
+      <footer>Footer Area</footer>
     </>
   );
 }
